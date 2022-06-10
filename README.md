@@ -10,11 +10,29 @@
 
 - HTML
 - CSS
-  -Javascript
+- Javascript
 
-## Source Code
+## Getting Started
+
+**Clone the repo into your local machine.**
+
+Source Code
 
 [source code](https://github.com/ShaheerCH/Awesome-Books-2.git)
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+NPM should be installed
+
+### Install
+
+run `npm install` in the project folder.
+
+### Usage
+
+open `index.html`.
 
 ## Authors
 
@@ -31,3 +49,7 @@ Feel free to check the [issues page](https://github.com/ShaheerCH/Awesome-Books-
 ## Show your support
 
 Give a [⭐️](https://github.com/ShaheerCH/Awesome-Books-2) if you like this project!
+
+## 📝 License
+
+This project is [MIT](LICENSE) licensed.
