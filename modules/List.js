@@ -15,13 +15,13 @@ const compileBookArticle = (book) => {
   return articleBook;
 };
 
-function removeBook(bookID) {
+const removeBook = (bookID) => {
   bookID = bookID.replace(/\D/gi, '');
   const article = document.getElementById(`book-${bookID}`);
   arrBooks.deleteBook(bookID);
   saveLocal();
   article.parentNode.removeChild(article);
-}
+};
 
 const appendBooklist = (book) => {
   const articleBooklist = document.getElementById('booklist');
