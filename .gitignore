@@ -1,0 +1,9 @@
+# List of files folders to ignore
+node_modules/
+
+#removes the following
+*.json
+.hintrc
+.st*.json
+.es*.json
+
